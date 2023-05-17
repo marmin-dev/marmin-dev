@@ -143,9 +143,10 @@
             <br>디테일 뷰에선 책 추천과 댓글 기능이 사용이 가능하다. 또한 자신의 프로필에서 자신이 추천한 책 리스트를 보는것이 가능하다
             <br> 파이보 앱에선 자신을 소개할 수 있는 게시물을 올리는 기능으 만들고, 다른 사람들이 올린 게시물으 볼 수 있고, 정렬도 
             <br>여러가지 방식으로 할 수 있다.
+             <br> 프로젝트 자세한 사항은 Readme.md의 pdf 
             <br>
             <a href="https://github.com/marmin-dev/book-site">프로젝트 레포지토리 가기</a>
-            <a href="https://github.com/marmin-dev/marmin-dev/blob/main/멀티캠퍼스MSA프로젝트%20박태욱.pdf">프로젝트 상세정보 PDF </a>
+            <br>
           </div>
           <br>
           <br>
