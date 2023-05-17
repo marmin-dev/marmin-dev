@@ -146,6 +146,28 @@
             <br>
                                 <a href="https://github.com/marmin-dev/book-site">프로젝트 레포지토리 가기</a>
           </div>
-          
+          <br>
+          <br>
+          <h2>Spring React OpenAI-API Nginx Docker AWS CloudFlare로 만드는 AI-채팅 서비스(미연시)</h2>
+          <p>2023.05.16 ~ 현재 서비스중 버전:1</p>
+          <a href="https://www.sumsumai.click">현재 서비스중인 프로젝트 주소</a>
+          <div>
+            Chat GPT 를 자주 이용하던 중 좀더 친근하고 여러가지 스킨을 입혀보고 하는 등 다른 UI를 넣거나 하는 등 새로운 서비스로
+            <br> 만들수 있지 않을까 라는 생각으로 Novel AI를 통해 인물 사진을 출력하고 그 사진을 이용하여 서비스를 구현하였다.
+            <br>스프링 서버는 open-ai API와 통신하여 답변을 만들고 답변은 데이터 베이스에 작성자, 캐릭터이름, id 등으로 저장된다
+            <br>저장된 데이터는 사용자가 어떤 내용을 입력했는지 내역을 볼 수 있게 하기위함이다. 이를 위해 데이터베이스를 사용한다
+            <br> 프론트엔드는 React.js 로 구현하였다. 리액트를 사용하여 필요한 부분만 제때 렌더링 될 수 있게 하였고, 자바스크립트를 이용하여
+            <br> 진짜 사람과 대화하는 것처럼 내가 입력함에 따라 백그라운드를 변화시켜 재미를 추가하였다
+            <br> 첫 번째 버전에서는 로컬 스토리지를 이용해 사용자 이름을 입력받는 방식으로 구현하였다. 그리고 
+            <br> 도커로 nginx이미지를 사용하여 호스팅한다.
+            <br> Amazon LightSail Route53 RDS 를 사용하였고 CloudFlare를 통해 SSL 인증서를 발급받아 https로
+            <br> 보안을 강화하였다          
+            <br>
+            <a href="https://github.com/marmin-dev/ai-frontend">프론트엔드 프로젝트 레포지토리 가기</a>
+            <br>
+            <a href="https://github.com/marmin-dev/mylittle">백엔드 프로젝트 레포지토리 가기</a>
+            <br>
+            <a href="https://marmindev.notion.site/OpenAI-98a0b3a5a0a74f968e0dc5c1a5235374">프로젝트 개요와 자세한 설명, 과정</a>
+          </div>
           
 </div>
