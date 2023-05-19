@@ -43,7 +43,7 @@
 <div align="center">
   <h1>프로젝트</h1>
   <br>
-  <h2>SpringBoot와 AWS로 게시판 만들기</h2>
+  <h2>SpringBoot와 AWS로 게시판 만들기(클론)</h2>
   <div>스프링부트와 머스태치 탬플릿을 사용하여 게시판을 만들고 AWS EC2와 AWS RDS를 사용하여 배포하기
   <br>
     이동욱 저자의 SpringBoot와 AWS로 혼자 구현하는 웹 서비스 책 따라서 만들기
@@ -51,7 +51,7 @@
   <a href="https://github.com/marmin-dev/freelec-springboot-webservice">프로젝트 레포지토리 가기</a>
   <br>
   <br>
-  <h2>SpringBoot와 AWS로 게시판 만들기 with mysql</h2>
+  <h2>SpringBoot와 AWS로 게시판 만들기 with mysql(클론)</h2>
   <div>스프링부트와 머스태치 템플릿, mysql을 사용항 AWS EC2와 AWS RDS를 사용하여 배포하기
     <br>
      <a href="https://github.com/marmin-dev/springboot-improved">프로젝트 레포지토리 가기</a>
@@ -75,7 +75,7 @@
     </div>
     <br>
     <br>
-    <h2>Springboot AWS React.js로 구현하는 todo 애플리케이션 구현하기</h2>
+    <h2>Springboot AWS React.js로 구현하는 todo 애플리케이션 구현하기(클론)</h2>
     <div>
       백엔드는 SpringBoot로 RestAPI를 구현하여 todo 애플리케이션을 만들었다. Json타입으로 데이터를 주고받을 수 있으며
       <br>
@@ -92,7 +92,7 @@
       </div>
       <br>
       <br>
-      <h2>React.js로 뉴스 애플리케이션 만들기</h2>
+      <h2>React.js로 뉴스 애플리케이션 만들기(클론)</h2>
       <div>
         React.js와 NewsAPI를 사용하여 뉴스 애플리케이션을 만들고, 카테고리별로 나누어 뉴스 API로 뉴스 데이터를 받아 화면을 구성해보자
         <br>
@@ -117,7 +117,7 @@
         클라우드에 배포하였다.
         <br>
                        <a href="https://github.com/marmin-dev/multi-1">프로젝트 레포지토리 가기</a>
-        <h2>django, Nginx, AWS 로 만드는 Pybo애플리케이션</h2>
+        <h2>django, Nginx, AWS 로 만드는 Pybo애플리케이션(반정도는 클론)</h2>
         <div>
           DoItDjango책을 따라 만든책으로, 이책에서 추천하는 소셜 로그인 기능이나 카테고리 기능, 개인프로필 등등을 모두 구현하였다
         <br>
