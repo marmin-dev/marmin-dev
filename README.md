@@ -162,7 +162,7 @@
             <br> 진짜 사람과 대화하는 것처럼 내가 입력함에 따라 백그라운드를 변화시켜 재미를 추가하였다
             <br> 첫 번째 버전에서는 로컬 스토리지를 이용해 사용자 이름을 입력받는 방식으로 구현하였다. 그리고 
             <br> 도커로 nginx이미지를 사용하여 호스팅한다.
-            <br> Amazon LightSail Route53 RDS 를 사용하였고 CloudFlare를 통해 SSL 인증서를 발급받아 https로
+            <br> Amazon LightSail Route53 RDS 를 사용하였고 CloudFlare를 통해 https로
             <br> 보안을 강화하였다          
             <br>
             <a href="https://github.com/marmin-dev/ai-frontend">프론트엔드 프로젝트 레포지토리 가기</a>
