@@ -151,8 +151,7 @@
           <br>
           <br>
           <h2>Spring React OpenAI-API Nginx Docker AWS CloudFlare로 만드는 AI-채팅 서비스(미연시)</h2>
-          <p>2023.05.16 ~ 현재 서비스중 버전:1</p>
-          <a href="https://www.sumsumai.click">현재 서비스중인 프로젝트 주소</a>
+          <p>2023.05.16 ~ 2023.06.28 서비스 종료</p>
           <div>
             Chat GPT 를 자주 이용하던 중 좀더 친근하고 여러가지 스킨을 입혀보고 하는 등 다른 UI를 넣거나 하는 등 새로운 서비스로
             <br> 만들수 있지 않을까 라는 생각으로 Novel AI를 통해 인물 사진을 출력하고 그 사진을 이용하여 서비스를 구현하였다.
@@ -171,5 +170,22 @@
             <br>
             <a href="https://marmindev.notion.site/OpenAI-98a0b3a5a0a74f968e0dc5c1a5235374">프로젝트 개요와 자세한 설명, 과정</a>
           </div>
-          
+          <br>
+          <br>
+          <h2>Food For Green - 음식 공유 플랫폼</h2>
+          <p>2023.06.20 ~ 2023.06.28</p>
+          <div>
+            음식 공유가 가능하도록 위치정보를 가진 게시판을 생성. 게시판에는 음식을 가져가고 싶다는 의사표현 등이 가능하도록 댓글 기능을 추가하였고, <br>
+            지도를 통해 음식의 위치가 어디인지 쉽게 알 수 있도록 하였다. 지도는 현재 위치를 찍어볼 수 있게 하기위해서 KakaMap을 사용하여 사용하였다.
+            <br>
+            메인 기능인 게시판 기능은 서버리스 아키텍쳐인 Lambda 를 통해 구성하였고, 댓글 기능은 Spring으로 구현된 백엔드 서버를 사용하였다.
+            <br>
+            프론트엔드는 React.js를 사용하였다
+            <br>
+            백엔드는 docker 화시켜 EC2에 배포하였고, 프론트엔드는 docker image를 만들어 오토 스케일링이 가능하도록 EKS를 사용하여 배포하였다.
+            <br>
+            DNS는 Route53을 사용하여 도메인 주소를 연결해주었고, CloudFlare을 사용하여 https로 보안 강화하였다.
+            <br/>
+            <a href="https://github.com/marmin-dev/FFG">FoodForGreen 레포지토리 바로가기</a>
+          </div>
 </div>
